@@ -1,0 +1,47 @@
+{
+  "scope": "Public pages inspected on 2026-10-22 UTC for accessible earlier equal-circle N=500/600/700/800 witnesses; source bodies are not redistributed",
+  "sources": [
+    {
+      "url": "https://www.packomania.com/pending-requests.html",
+      "retrieved_at": "2026-10-22T18:43:27.080Z",
+      "status": 200,
+      "bytes": 5427,
+      "sha256": "92ce2e3dd9802a85edda90ace95a1e7d81dac08297c3903bba46289cdb2a14ae",
+      "observation": "The 17-Oct queue lists 557 csq candidates in 401-1000 submitted 14-Sep and 1813 csq candidates in 501-9984 submitted 15-Oct. It gives ranges, not per-count membership, radii or coordinate files. The page is byte-identical to the repository's 20-Oct snapshot."
+    },
+    {
+      "url": "https://packomania.com/csq/",
+      "retrieved_at": "2026-10-22T18:43:27.569Z",
+      "status": 200,
+      "bytes": 1092184,
+      "sha256": "01995a5a57f2adcf839c340b1108b7b67c69993452aaac842e88cdac2bec1707",
+      "observation": "The public table is still dated 10-Sep and is byte-identical to the repository's 20-Oct snapshot. Its printed radii for N=500/600/700/800 match data/records.json."
+    },
+    {
+      "url": "https://www.projectaletheia.org/findings?view=canonical",
+      "retrieved_at": "2026-10-22T18:43:28.598Z",
+      "status": 200,
+      "bytes": 141723,
+      "sha256": "19d5a852dba6362b2cbf2cfe5969f581d475842113fabd66097d58bc60b207ce",
+      "observation": "The 31-Aug finding claims candidate files for N=600/700/800 sent to the catalogue maintainer and says they are not accepted. Its relevant card links a PNG illustration, but exposes no numerical radii or coordinate download for exact comparison."
+    },
+    {
+      "url": "https://www.projectaletheia.org/research",
+      "retrieved_at": "2026-10-22T18:43:29.040Z",
+      "status": 200,
+      "bytes": 279546,
+      "sha256": "98447f0620a99fcc514f4bdd69fcb8330c71896d3b5e3421a267d22db2e0175d",
+      "observation": "The packing question remains open pending the catalogue maintainer's reply. It describes three files and a checker, but the relevant card links no witness files."
+    },
+    {
+      "url": "https://www.projectaletheia.org/datasets",
+      "retrieved_at": "2026-10-22T18:43:29.563Z",
+      "status": 200,
+      "bytes": 22651,
+      "sha256": "0a04349e53bf0cccca2445f2bbdc107683786083c16ab993b31cf200e579cd8b",
+      "observation": "The public registry description says operational paths and private hashes stay internal; no direct ART-085 file link appears on this page."
+    }
+  ],
+  "search_limit": "These five primary pages and targeted public web searches were checked. Absence of a linked witness on them is not proof that no public or private witness exists elsewhere.",
+  "contacted_authors_or_record_keeper": false
+}

@@ -1,0 +1,73 @@
+{
+  "round_seed": "2458fc85c9adc5c5a2ab21c30589ccb2",
+  "base": "978d4bd925ba4ab62e5ceb2a3b3a108d3e283f1a",
+  "scope": "Four pinned equal-circle working witnesses versus the frozen published Packomania table; no pending-witness comparison",
+  "source_sha256": {
+    "research/2458fc85c9adc5c5a2ab21c30589ccb2/reconcile.py": "38f5b06b3cfcb7f34e3518ebf675ff15274ef0a6c45eca47281b9c2ebb9d6690",
+    "src/verify.py": "3b065d9d5140c63dcf33cad2c0ac93a0ad7afde8eb94136fb935a7e3ce5d6976",
+    "discover/working-starts.json": "889c6d4bad7cceec20319f7f30dc03746018910e58efe074b4ee95e4f9dce903",
+    "data/records.json": "d9828e7d8abc54aa9b62c9abbe957b31efce37aeb75010f93686dcbf71020234"
+  },
+  "rows": [
+    {
+      "n": 500,
+      "certificate": "research/contributor-20261020/certificates/best/n500.json",
+      "certificate_sha256": "282038e184f3588df97bd2bd043d1ea97d32f73db2af4c43afe6671edaf15979",
+      "construction_credit": "Packntile team (Packomania reference [26])",
+      "published_url": "https://packomania.com/csq/csq500.html",
+      "published_radius": "0.023455498994",
+      "working_radius_exact": "23455596955367/1000000000000000",
+      "working_radius_decimal": "0.023455596955367",
+      "gain_exact": "97961367/1000000000000000",
+      "gain_decimal": "9.7961367E-8",
+      "practical_guard_exact": "11777749497/50000000000000000000",
+      "above_published_screen": true,
+      "pending_novelty": "unresolved"
+    },
+    {
+      "n": 600,
+      "certificate": "certificates/frontier/n600.json",
+      "certificate_sha256": "30caca8fd70237e71cf34b4d377de1c6f4dcfc8a85af41fba4828e1eea35bba0",
+      "construction_credit": "Eckard Specht",
+      "published_url": "https://packomania.com/csq/csq600.html",
+      "published_radius": "0.021479376754",
+      "working_radius_exact": "5369974144543/250000000000000",
+      "working_radius_decimal": "0.021479896578172",
+      "gain_exact": "129956043/250000000000000",
+      "gain_decimal": "5.19824172E-7",
+      "practical_guard_exact": "10789688377/50000000000000000000",
+      "above_published_screen": true,
+      "pending_novelty": "unresolved"
+    },
+    {
+      "n": 700,
+      "certificate": "research/contributor-20261020/certificates/best/n700.json",
+      "certificate_sha256": "6d02a08ed764ba28cc992fc0eee01d532f33ea54c0615082899b903da6e30179",
+      "construction_credit": "Eckard Specht",
+      "published_url": "https://packomania.com/csq/csq700.html",
+      "published_radius": "0.019903642828",
+      "working_radius_exact": "19906357272343/1000000000000000",
+      "working_radius_decimal": "0.019906357272343",
+      "gain_exact": "2714444343/1000000000000000",
+      "gain_decimal": "0.000002714444343",
+      "practical_guard_exact": "5000910707/25000000000000000000",
+      "above_published_screen": true,
+      "pending_novelty": "unresolved"
+    },
+    {
+      "n": 800,
+      "certificate": "research/contributor-20261020/certificates/best/n800.json",
+      "certificate_sha256": "5fadc7c2e5ddb4e89c9513be3b62e92ee84f91c336c356737c8f83c71ba82685",
+      "construction_credit": "Eckard Specht",
+      "published_url": "https://packomania.com/csq/csq800.html",
+      "published_radius": "0.018637592286",
+      "working_radius_exact": "3727734385197/200000000000000",
+      "working_radius_decimal": "0.018638671925985",
+      "gain_exact": "215927997/200000000000000",
+      "gain_decimal": "0.000001079639985",
+      "practical_guard_exact": "9368796143/50000000000000000000",
+      "above_published_screen": true,
+      "pending_novelty": "unresolved"
+    }
+  ]
+}
